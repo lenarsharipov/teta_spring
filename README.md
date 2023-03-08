@@ -1,0 +1,9 @@
+Teta Spring CRUD Backend Application
+
+JAVA 17.06
+POSTGRESQL
+SQL2o
+SPRING MVC
+Thymeleaf
+H2
+LIQUIBASE
